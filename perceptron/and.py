@@ -1,5 +1,4 @@
 #  This program will complete the logic compute And
-
 import numpy as np
 
 class Perception:
@@ -15,7 +14,5 @@ class Perception:
         :param y: output of model
         :return:
         """
-
-
-
+    
 
