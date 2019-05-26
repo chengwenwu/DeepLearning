@@ -13,7 +13,7 @@
   - 使用单个神经元（感知机）实现模型，并使用上表中的数据进行训练。
   - 感知机模型如下：
 
-![model](model.jpg)
+![model](model.JPG)
 
 ```mermaid
 graph LR
