@@ -13,6 +13,8 @@
   - 使用单个神经元（感知机）实现模型，并使用上表中的数据进行训练。
   - 感知机模型如下：
 
+![model](model.jpg)
+
 ```mermaid
 graph LR
 A((1)) --b--> B((sum))
@@ -103,3 +105,9 @@ print('1 and 1 = %d'%perp.neuro(np.array([1,1])))
 
 ```
 
+
+
+
+
+- 参考文献
+  - [零基础入门深度学习(1) - 感知器](<https://www.zybuluo.com/hanbingtao/note/433855>)
