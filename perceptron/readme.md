@@ -1,6 +1,5 @@
 <center><h1>使用感知器实现逻辑与运算（and)</h1></center>
 
-- ![](http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}))
 - 首先与运算定义如下：
 
 | x1   | x2   | y    |
